@@ -40,7 +40,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zafaris&theme=onedark)
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=zafaris)
 
-[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
+[![Badge](https://img.shields.io/static/?label=zafaris&message=dev&style=for-the-badge&logoColor=cornflowerblue&color=blueviolet)][website]
 
 [website]: https://iszaffar.com
 [youtube]: https://youtube.com/channel/UCRGp4IcgPuOIJ9aIYCh2VAA
