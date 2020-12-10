@@ -30,8 +30,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 
-<br />
-
 ---
 
 ### Stats:
@@ -40,7 +38,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zafaris&theme=onedark)
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=zafaris)
 
-[![Badge](https://img.shields.io/static/v1?label=zafaris&message=dev&style=for-the-badge&labelColor=cornflowerblue&color=blueviolet)][website]
+![Badge](https://img.shields.io/static/v1?label=zafaris&message=dev&style=for-the-badge&labelColor=cornflowerblue&color=blueviolet)
 
 [website]: https://iszaffar.com
 [youtube]: https://youtube.com/channel/UCRGp4IcgPuOIJ9aIYCh2VAA
