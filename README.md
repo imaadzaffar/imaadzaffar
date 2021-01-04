@@ -6,7 +6,7 @@
 
 - 🚀 I’m currently learning: React.js 
 - 👨🏽‍💻 I have made Android apps, websites and programs in the past
-- 🎯 Goals: Explore more about machine learning, enjoy life
+- 🎯 Goals: Make a YouTube channel, explore more about machine learning, and enjoy life
 - ⭐️ Fun fact: I can solve a Rubik's cube in around 30 seconds
 
 ### Connect with Me:
