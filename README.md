@@ -42,5 +42,5 @@
 
 [website]: https://iszaffar.com
 [youtube]: https://youtube.com/channel/UCRGp4IcgPuOIJ9aIYCh2VAA
-[instagram]: https://instagram.com/zafaris.dev
+[instagram]: https://instagram.com/zafaris_yt
 [linkedin]: https://linkedin.com/in/imaad-zaffar
