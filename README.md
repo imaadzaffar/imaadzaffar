@@ -1,4 +1,4 @@
-### Hi there, I'm [Imaad!][website] 👋
+### Hi there, I'm [Imaad!][website] 🤩
 
 [![Website](https://img.shields.io/website?label=iszaffar.com&style=for-the-badge&url=https%3A%2F%2Fiszaffar.com)][website]
 
