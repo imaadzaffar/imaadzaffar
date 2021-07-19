@@ -13,8 +13,6 @@
 
 [<img align="left" alt="Imaad | Website" width="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Imaad | YouTube" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Imaad | Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Imaad | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -39,9 +37,9 @@
 <br />
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zafaris&theme=onedark)
 
-[![Badge](https://img.shields.io/static/v1?label=zafaris&message=dev&style=for-the-badge&labelColor=cornflowerblue&color=blueviolet)][website]
+[![Badge](https://img.shields.io/static/v1?label=imaad&message=zaffar&style=for-the-badge&labelColor=cornflowerblue&color=blueviolet)][website]
 
-[website]: https://iszaffar.com
+[website]: https://imaadzaffar.com
 [youtube]: https://youtube.com/channel/UCRGp4IcgPuOIJ9aIYCh2VAA
-[instagram]: https://instagram.com/zafaris_yt
+[instagram]: https://instagram.com/imaadzaffar
 [linkedin]: https://linkedin.com/in/imaad-zaffar
