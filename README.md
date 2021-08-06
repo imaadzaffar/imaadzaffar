@@ -1,6 +1,6 @@
 ### Hi there, I'm [Imaad!][website] 🤩
 
-[![Website](https://img.shields.io/website?label=iszaffar.com&style=for-the-badge&url=https%3A%2F%2Fiszaffar.com)][website]
+[![Website](https://img.shields.io/website?label=imaadzaffar.com&style=for-the-badge&url=https%3A%2F%2Fiszaffar.com)][website]
 
 ### Hi, I'm Imaad Zaffar, a student who is interested in technology and likes making cool stuff.
 
