@@ -33,9 +33,9 @@
 
 ### Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zafaris&theme=onedark&count_private=true&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imaadzaffar&theme=onedark&count_private=true&show_icons=true)
 <br />
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zafaris&theme=onedark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imaadzaffar&theme=onedark)
 
 [![Badge](https://img.shields.io/static/v1?label=imaad&message=zaffar&style=for-the-badge&labelColor=cornflowerblue&color=blueviolet)][website]
 
