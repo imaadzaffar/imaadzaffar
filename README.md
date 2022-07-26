@@ -2,12 +2,12 @@
 
 ---
 
-### I'm a student who is interested in technology and making cool stuff.
+### I'm currently studying Computer Science @ UCL and enjoy creating useful/cool applications.
 
-- 🚀 Currently learning: Vue.js
-- 👨🏽‍💻 Past projects: websites, Android apps
+- 🚀 Currently learning: Deep Learning on Coursera
+- 👨🏽‍💻 Past projects: Websites, Android Apps
 - 🎯 Goals: Upgrade personal website
-- ⭐️ Fun fact: I can solve a Rubik's cube in around 30 seconds
+- ⭐️ Fun fact: I can solve a Rubik's cube in less than 30 seconds
 
 ---
 
