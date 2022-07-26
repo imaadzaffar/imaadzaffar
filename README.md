@@ -2,7 +2,7 @@
 
 ---
 
-### I'm a Computer Science student @ UCL.
+### I'm a Computer Science student @ UCL
 
 I enjoy creating useful/cool applications
 - 🚀 Currently learning: Deep Learning on Coursera
