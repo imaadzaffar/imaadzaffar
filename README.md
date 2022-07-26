@@ -44,7 +44,7 @@
 [![Website](https://img.shields.io/website?label=imaadzaffar.com&style=for-the-badge&url=https%3A%2F%2Fimaadzaffar.com)][website]
 
 [website]: https://imaadzaffar.com
-[youtube]: https://youtube.com/channel/UCRGp4IcgPuOIJ9aIYCh2VAA
-[twitter]: https://twitter.com/imaadzaffar
+[youtube]: https://youtube.com/c/zafaris
+[twitter]: https://twitter.com/_zafaris
 [instagram]: https://instagram.com/imaadzaffar
-[linkedin]: https://linkedin.com/in/imaad-zaffar
+[linkedin]: https://linkedin.com/in/imaadzaffar
