@@ -2,8 +2,9 @@
 
 ---
 
-### I'm currently studying Computer Science @ UCL and enjoy creating useful/cool applications.
+### I'm a Computer Science student @ UCL.
 
+I enjoy creating useful/cool applications
 - 🚀 Currently learning: Deep Learning on Coursera
 - 👨🏽‍💻 Past projects: Websites, Android Apps
 - 🎯 Goals: Upgrade personal website
