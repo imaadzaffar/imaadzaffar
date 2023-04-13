@@ -1,7 +1,5 @@
 ## Hi there, I'm [Imaad](imaadzaffar.com) 💫
 
----
-
 ### About me:
 - I'm currently in my 2nd Year of Computer Science @ University College London, UK.
 - I've dabbled in multiple areas: Full-Stack Web/Mobile Development, Machine Learning.
