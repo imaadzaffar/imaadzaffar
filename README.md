@@ -1,4 +1,4 @@
-## Hi there, I'm [Imaad](imaadzaffar.com) 💫
+## Hi there, I'm [Imaad](https://imaadzaffar.com) 💫
 
 ### About me:
 - I'm currently in my 2nd Year of Computer Science @ University College London, UK.
