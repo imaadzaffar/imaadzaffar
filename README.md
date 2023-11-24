@@ -1,7 +1,7 @@
 ## Hi there, I'm [Imaad](https://imaadzaffar.com) 💫
 
 ### About me:
-- I'm currently in my 2nd Year of Computer Science @ University College London, UK.
+- I'm currently in my Final Year of Computer Science @ University College London, UK.
 - I've dabbled in multiple areas: Full-Stack Web/Mobile Development, Machine Learning.
 - I'm fluent in: Python, C, Java, JavaScript, ReactJS
 - **I like making cool stuff.**
